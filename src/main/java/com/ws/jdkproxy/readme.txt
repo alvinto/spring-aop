@@ -1,0 +1,4 @@
+Java 动态代理
+主要有InvocationHandle接口、Proxy类
+
+只能为接口创建代理对象
